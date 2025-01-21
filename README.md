@@ -1,5 +1,5 @@
 Technologies:
 <br><br>
-HTML: Structure
-CSS: Styling
-JavaScript: Game logic
+HTML: Structure <br>
+CSS: Styling <br>
+JavaScript: Game logic 
