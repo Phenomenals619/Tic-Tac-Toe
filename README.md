@@ -1,7 +1,7 @@
-Players take turns to place X or O on a 3x3 grid, and the game detects wins or draws. <br>Includes a reset option to start a new game.
+<p>Players take turns to place X or O on a 3x3 grid, and the game detects wins or draws. Includes a reset option to start a new game.<\p>
 
 <br><br>
-Technologies:
+<h4>Technologies:</h4>
 <br>
 HTML- Structure <br>
 CSS- Styling <br>
