@@ -2,7 +2,6 @@
 
 <br><br>
 <h4>Technologies:</h4>
-<br>
 HTML- Structure <br>
 CSS- Styling <br>
 JavaScript- Game logic 
